@@ -4,8 +4,8 @@ authors:
 - family-names: "Travaglini"
   given-names: "Riccardo"
   orcid: "https://orcid.org/0009-0008-2236-272X"
-- family-names: "Laurens"
-  given-names: "Frowijn"
+- family-names: "Frowijn"
+  given-names: "Laurens"
   orcid: "https://orcid.org/0000-0001-9178-0169"
 title: "Hydrogen production simulation model"
 version: 1.0.0
