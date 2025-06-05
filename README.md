@@ -25,9 +25,11 @@ Each configuration folder contains a `main.py` script, which orchestrates the si
 3. Economic Model (`LCOH_calculator` in folder `Economics`):  
    Estimates the Levelized Cost of Hydrogen (LCOH) based on technical and financial outputs.
 
+In the current code, data is used from the dataset of the paper. The databases can be found in the paper and the corresponding appendices.
+
 ## Citation
 
-If you use this repository or its scripts in your work, please cite:
+If you use this repository or its scripts in your work, please cite using the CITATION.cff as well as the paper:
 
 R. Travaglini, L.S.F. Frowijn, A. Bianchini, Z. Lukszo, K. Bruninx:  
 Offshore or onshore hydrogen production? A critical analysis on costs and operational considerations for the Dutch North Sea*, Applied Energy, 2025
