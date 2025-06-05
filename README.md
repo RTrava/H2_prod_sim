@@ -32,3 +32,7 @@ If you use this repository or its scripts in your work, please cite:
 R. Travaglini, L.S.F. Frowijn, A. Bianchini, Z. Lukszo, K. Bruninx:  
 Offshore or onshore hydrogen production? A critical analysis on costs and operational considerations for the Dutch North Sea*, Applied Energy, 2025
 
+
+## Licence
+
+Creative Commons licenses
